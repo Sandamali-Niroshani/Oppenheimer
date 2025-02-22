@@ -40,7 +40,7 @@ Ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Sandamali-Niroshani/todos.git
+   git clone https://github.com/Sandamali-Niroshani/Oppenheimer.git
    ```
 2. Install dependencies:
    ```sh
@@ -52,6 +52,11 @@ Ensure you have the following installed:
     - Right-click on `TestNG.xml` file and select **Run 'TestNG.xml'**
 2. Execute individual testcases 
     - Right-click on testcase and select Run
+3. Execute through cmd
+    - Open a terminal
+    - Run the command: mvn test
+    - Surefire report will be available at: target/surefire-reports/index.html
+    - Open the report in a browser to view test results(This is not a detailed report to get better idea about scripts)
 
 ## Project Structure
 ```
