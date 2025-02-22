@@ -1,0 +1,9 @@
+{
+  "name": "Bruce Wayne",
+  "gender": "MALE",
+  "birthDate": "1990-05-20T12:30:45",
+  "deathDate": null,
+  "salary": 75000.00,
+  "taxPaid": 5000.25,
+  "browniePoints": 10
+}

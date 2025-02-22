@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Oppenheimer" preserve-order="true">
+
+    <test name="UserStoryOne">
+        <classes>
+            <class name="testScripts.UserStory1"/>
+        </classes>
+    </test>
+
+    <test name="UserStoryTwo">
+        <classes>
+            <class name="testScripts.UserStory2"/>
+        </classes>
+    </test>
+
+    <test name="UserStoryThree">
+        <classes>
+            <class name="testScripts.UserStory3"/>
+        </classes>
+    </test>
+
+    <test name="UserStoryFour">
+        <classes>
+            <class name="testScripts.UserStory4"/>
+        </classes>
+    </test>
+
+    <test name="UserStoryFive">
+        <classes>
+            <class name="testScripts.UserStory5"/>
+        </classes>
+    </test>
+
+    <test name="UserStorySix">
+        <classes>
+            <class name="testScripts.UserStory6"/>
+        </classes>
+    </test>
+
+</suite>

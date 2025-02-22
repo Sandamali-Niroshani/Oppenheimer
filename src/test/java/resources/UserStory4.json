@@ -1,0 +1,11 @@
+{
+  "name": "Olivia Jade",
+  "gender": "FEMALE",
+  "birthDate": "1993-05-20T10:30:45",
+  "deathDate": null,
+  "salary": 80000.07,
+  "taxPaid": 6000.25,
+  "browniePoints": 5,
+  "voucherType": "TRAVEL",
+  "voucherName": "Travel Voucher"
+}
