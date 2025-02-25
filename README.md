@@ -157,13 +157,14 @@ can reused as everytime created heroes deleted.
 - **UserStory5.java**
     - Test methods are designed to test the following scenarios.
          - createHeroSuccess(): Test method to create a hero and verify the hero is created successfully.
-         - workingClassHeroOwesMoney(): Test method to create a working class hero who owes money and verify the hero is created successfully.
-         - workingClassHeroOwesMoneyWithInvalidVoucher(): Test method to create a working class hero who owes money with invalid voucher and verify the hero is not created.
+         - workingClassHeroOwesMoney(): Test method to retrieve a working class hero owes and verify the response.
+         - workingClassHeroOwesMoneyWithInvalidVoucher(): Test method to verify working class hero owe accept only numeric value.
 
 
 - **UserStory6.java**
      - Test methods are designed to test the following scenarios.
-         - verifyVouchersByPersonAndType(): Test method to verify vouchers by person and type.
+         - verifyVouchersByPersonAndType(): Test method to retrieve vouchers by person and type.
+         - Verify the response format.
 
 
 
